@@ -1,2 +1,0 @@
-# Key: State
-# Value: Capital
